@@ -1,0 +1,6 @@
+.vscode
+build
+toys/*
+!toys/.gitkeep
+run*
+evaluation_scripts
