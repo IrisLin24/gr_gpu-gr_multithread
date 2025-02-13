@@ -1,6 +1,0 @@
-/home/franky/Dev/gr_gpu-gr_multithread/build/CMakeFiles/route.dir
-/home/franky/Dev/gr_gpu-gr_multithread/build/CMakeFiles/edit_cache.dir
-/home/franky/Dev/gr_gpu-gr_multithread/build/CMakeFiles/rebuild_cache.dir
-/home/franky/Dev/gr_gpu-gr_multithread/build/flute/CMakeFiles/flute.dir
-/home/franky/Dev/gr_gpu-gr_multithread/build/flute/CMakeFiles/edit_cache.dir
-/home/franky/Dev/gr_gpu-gr_multithread/build/flute/CMakeFiles/rebuild_cache.dir
